@@ -65,4 +65,8 @@ Sends the text when the esp prompts with '>'.
 Close CIP connection.
 
 ### plantSensor.ino
-Final setup with the DHT sensor.
+Final setup with the DHT sensor. Uses dht library for DHT Sensor.
+
+### getTnH()
+'int chk = DHT.read11(DHT11_PIN);'
+Reads from DHT11.
