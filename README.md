@@ -12,7 +12,7 @@ https://thingspeak.com/
 ESP Hardware setup:
 http://rancidbacon.com/files/kiwicon8/ESP8266_WiFi_Module_Quick_Start_Guide_v_1.0.4.pdf
 
-### tweet.py
+### tweet.ino
 Contains some basic functions to tweet strings from an Arduino using the ESP Module and ThingSpeak API.
 Uses SoftwareSerial library to simulate serial communication between the ESP Module and Arduino.
 Requires: API Key from ThingTweet/ThingSpeak.
