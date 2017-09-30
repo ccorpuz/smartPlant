@@ -63,3 +63,6 @@ Sends the text when the esp prompts with '>'.
 
 `AT+CIPCLOSE`
 Close CIP connection.
+
+### plantSensor.ino
+Final setup with the DHT sensor.
